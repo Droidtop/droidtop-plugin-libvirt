@@ -7,7 +7,7 @@
 
 <p align="center">
   <img alt="For droidtop" src="https://img.shields.io/badge/for-droidtop-2f7bf5?style=flat-square">
-  <a href="LICENSE"><img alt="License: Apache-2.0" src="https://img.shields.io/badge/license-Apache--2.0-blue?style=flat-square"></a>
+  <a href="LICENSE"><img alt="License: GPL-3.0" src="https://img.shields.io/badge/license-GPL--3.0-blue?style=flat-square"></a>
   <img alt="Status: design only" src="https://img.shields.io/badge/status-design%20only-d69e2e?style=flat-square">
 </p>
 
@@ -41,4 +41,4 @@ Where the device exposes `/dev/kvm` (pKVM or KVM-capable kernels), QEMU uses it.
 
 ## Licence
 
-The code in this repository is Apache-2.0, see [LICENSE](LICENSE). Bundled libvirt (LGPL-2.1-or-later) and QEMU (GPL-2.0) keep their own licences, with their sources published alongside every release.
+The code in this repository is GPL-3.0, see [LICENSE](LICENSE). Bundled libvirt (LGPL-2.1-or-later) and QEMU (GPL-2.0) keep their own licences, with their sources published alongside every release.
